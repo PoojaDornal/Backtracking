@@ -1,0 +1,135 @@
+
+code{
+
+    font-family: Arial,Verdana,  Helvetica, sans-serif;
+    font-weight: 400;
+    color: #660000;
+    
+    font-style: normal;
+}
+.pre-style
+{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 10px;
+    scroll-margin-inline-end: 10px;
+    font-size:large; 
+    color: #660000;
+    font-weight: 400;
+}
+.dd
+{
+    display: block;
+    margin-inline-start: 40px;
+}
+.dt
+{
+    display: block;
+}
+.method,th,td
+{
+        /*border:0px solid black;*/
+        margin-right: auto;
+        margin-left: auto;
+        border-width: 1px;
+        padding-right: 2px;
+        text-align: start;
+        border-spacing: 2px;
+}
+
+.tb-heading
+{
+    background-color: lightgray;
+       padding:1px;
+      font-weight: normal;
+}
+
+.table-1
+{
+    border-collapse: collapse;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: normal;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+    
+}
+/*tbody
+{
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+tr{
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+
+}*/
+
+
+pre{
+    display: block;
+    white-space: pre;
+    margin: 1em 5px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+.row-table
+{
+    border-collapse: collapse;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: normal;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+
+
+    
+}
+
+.row-data
+{
+    border:1;
+    border-collapse:collapse;
+   margin-left: 2px;
+   padding-left: 5px;
+   
+}
+
+#tbody
+{
+    border: 0;
+    display: block;
+}
+#t-data
+{   
+    border: 0;
+    
+}
+
+.label-name
+{
+    
+    margin-left:auto;
+    margin-right: auto;
+
+}
+
